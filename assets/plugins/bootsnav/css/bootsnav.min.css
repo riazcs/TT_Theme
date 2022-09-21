@@ -1577,4 +1577,7 @@ fieldset[disabled] .navbar-default .btn-link:hover {
         display: none !important
     }
 }
+body{
+    font-size: 14px !important;
+}
 /* End modify */
